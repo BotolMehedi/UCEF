@@ -38,10 +38,10 @@ $ python ucef.py
 * First of all you need to create an account on UDEMY.COM. You can use temp mail for creating account. After creating a account just submit your udemy account login details on this bot.✌
 
 ## VIDEO TUTORIAL
-[![Watch the video](https://img.youtube.com/vi/QV_aCu48YEY/maxresdefault.jpg)](https://youtu.be/QV_aCu48YEY)
+[![Watch the video](https://i.ibb.co/LRdf568/botol-png.png)](https://youtu.be/QV_aCu48YEY)
 
 ## BLOG ARTICLE
-<p align="center"><a href="https://techykotha.com/archives/4279"><img title="Enroll Udemy Paid Courses Fully Free 2021" src="https://img.youtube.com/vi/QV_aCu48YEY/maxresdefault.jpg"></a>
+<p align="center"><a href="https://techykotha.com/archives/4279"><img title="Enroll Udemy Paid Courses Fully Free 2021" src="https://i.ibb.co/LRdf568/botol-png.png"></a>
 
 ## ***Follow Me***
 
